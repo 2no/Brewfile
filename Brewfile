@@ -10,10 +10,10 @@ cask install appcleaner
 cask install bartender
 cask install bettertouchtool
 cask install betterzipql
-cask install charles
 cask install chefdk
 cask install clipmenu
 cask install cocoarestclient
+cask install coteditor
 cask install dropbox
 cask install evernote
 cask install flash
@@ -27,6 +27,7 @@ cask install istat-menus
 cask install iterm2
 cask install kaleidoscope
 cask install karabiner
+cask install magicprefs
 cask install mysqlworkbench
 cask install opera
 cask install optimal-layout
@@ -50,6 +51,7 @@ cask install xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
+cask install charles-openjdk
 cask install firefox-ja
 cask install macvim-kaoriya
 
