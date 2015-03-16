@@ -18,6 +18,7 @@ cask install coteditor
 cask install dropbox
 cask install evernote
 cask install flash
+cask install fluid
 cask install ghostlab
 cask install google-chrome
 cask install google-japanese-ime
@@ -28,6 +29,7 @@ cask install istat-menus
 cask install iterm2
 cask install kaleidoscope
 cask install karabiner
+cask install libreoffice
 cask install magicprefs
 cask install mysqlworkbench
 cask install opera
@@ -65,6 +67,7 @@ install android-sdk
 install bdw-gc
 install ctags
 install curl
+install direnv
 install gdbm
 install git
 install git-flow
