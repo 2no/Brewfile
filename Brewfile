@@ -96,12 +96,14 @@ appstore 1Password
 appstore Airmail 2
 appstore Archiver
 appstore Caffeine
+appstore CodeBox
 appstore CodeRunner
 appstore Dash
 appstore Desktop Calendar Plus
 appstore GarageBand
 appstore HyperDock
 appstore iMovie
+appstore Integrity
 appstore iPhoto
 appstore Keynote
 appstore MenuPop
