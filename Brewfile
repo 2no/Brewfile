@@ -101,6 +101,7 @@ appstore HyperDock
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore MenuPop
 appstore Numbers
 appstore Pages
 appstore Reeder
