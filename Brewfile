@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install adobe-creative-cloud
 cask install alfred
 cask install android-file-transfer
 cask install appcleaner
