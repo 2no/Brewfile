@@ -56,6 +56,7 @@ cask install xtrafinder
 tap caskroom/versions
 cask install charles-openjdk
 cask install firefox-ja
+cask install google-chrome-canary
 cask install macvim-kaoriya
 
 ## rcmdnk/file
@@ -63,6 +64,7 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install --disable-etcdir zsh
 install android-sdk
 install bdw-gc
 install ctags
@@ -89,7 +91,6 @@ install tree
 install w3m
 install wget
 install xz
-install zsh
 
 # App Store applications
 appstore 1Password
