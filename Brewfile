@@ -30,6 +30,7 @@ cask install iterm2
 cask install kaleidoscope
 cask install karabiner
 cask install libreoffice
+cask install little-snitch
 cask install magicprefs
 cask install mysqlworkbench
 cask install opera
