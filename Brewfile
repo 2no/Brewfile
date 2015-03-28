@@ -76,6 +76,7 @@ install git-flow
 install jq
 install libevent
 install libpng
+install mackup
 install openssl
 install pcre
 install pkg-config
