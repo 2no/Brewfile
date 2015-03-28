@@ -110,8 +110,6 @@ appstore Integrity
 appstore iPhoto
 appstore Keynote
 appstore MenuPop
-appstore Numbers
-appstore Pages
 appstore Reeder
 appstore Slack
 appstore Slicy
