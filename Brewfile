@@ -86,6 +86,7 @@ install python
 install readline
 install reattach-to-user-namespace
 install sqlite
+install sshfs
 install the_silver_searcher
 install tig
 install tmux
