@@ -19,8 +19,8 @@ cask install dropbox
 cask install evernote
 cask install flash
 cask install fluid
-cask install ghostlab
 cask install google-chrome
+cask install google-drive
 cask install google-japanese-ime
 cask install haroopad
 cask install hyperswitch
