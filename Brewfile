@@ -78,6 +78,7 @@ install jq
 install libevent
 install libpng
 install mackup
+install mobile-shell
 install openssl
 install pcre
 install pkg-config
