@@ -23,6 +23,7 @@ cask install google-chrome
 cask install google-drive
 cask install google-japanese-ime
 cask install haroopad
+cask install hosts
 cask install hyperswitch
 cask install imageoptim
 cask install istat-menus
