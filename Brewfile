@@ -94,6 +94,7 @@ install reattach-to-user-namespace
 install sqlite
 install sshfs
 install the_silver_searcher
+install thefuck
 install tig
 install tmux
 install tree
