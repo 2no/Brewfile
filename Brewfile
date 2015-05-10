@@ -61,6 +61,10 @@ cask install firefox-ja
 cask install google-chrome-canary
 cask install macvim-kaoriya
 
+## jingweno/ccat
+tap jingweno/ccat
+install ccat
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
