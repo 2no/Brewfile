@@ -113,9 +113,7 @@ appstore Dash
 appstore Desktop Calendar Plus
 appstore GarageBand
 appstore HyperDock
-appstore iMovie
 appstore Integrity
-appstore iPhoto
 appstore Keynote
 appstore MenuPop
 appstore Reeder
