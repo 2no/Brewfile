@@ -110,10 +110,8 @@ appstore CodeBox
 appstore CodeRunner
 appstore Dash
 appstore Desktop Calendar Plus
-appstore GarageBand
 appstore HyperDock
 appstore Integrity
-appstore Keynote
 appstore MenuPop
 appstore Reeder
 appstore Slack
