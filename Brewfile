@@ -56,7 +56,7 @@ cask install xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
-cask install charles-openjdk
+cask install charles
 cask install firefox-ja
 cask install google-chrome-canary
 cask install macvim-kaoriya
