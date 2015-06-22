@@ -3,103 +3,104 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install adobe-creative-cloud
-cask install alfred
-cask install android-file-transfer
-cask install appcleaner
-cask install bartender
-cask install bettertouchtool
-cask install betterzipql
-cask install chefdk
-cask install clipmenu
-cask install cocoarestclient
-cask install coteditor
-cask install dropbox
-cask install evernote
-cask install flash
-cask install fluid
-cask install google-chrome
-cask install google-drive
-cask install google-japanese-ime
-cask install haroopad
-cask install hosts
-cask install hyperswitch
-cask install imageoptim
-cask install istat-menus
-cask install iterm2
-cask install kaleidoscope
-cask install karabiner
-cask install libreoffice
-cask install little-snitch
-cask install magicprefs
-cask install mysqlworkbench
-cask install opera
-cask install optimal-layout
-cask install paparazzi
-cask install qlcolorcode
-cask install qlimagesize
-cask install qlmarkdown
-cask install qlstephen
-cask install quicklook-csv
-cask install quicklook-json
-cask install scriptql
-cask install sequel-pro
-cask install skype
-cask install sophos-anti-virus-home-edition
-cask install suspicious-package
-cask install transmit
-cask install vagrant-manager
-cask install vagrant
-cask install virtualbox
-cask install xtrafinder
+brew brew-cask
+cask adobe-creative-cloud
+cask alfred
+cask android-file-transfer
+cask appcleaner
+cask bartender
+cask bettertouchtool
+cask betterzipql
+cask charles
+cask chefdk
+cask clipmenu
+cask cocoarestclient
+cask coteditor
+cask dropbox
+cask evernote
+cask flash
+cask fluid
+cask google-chrome
+cask google-drive
+cask google-japanese-ime
+cask gyazo
+cask haroopad
+cask hosts
+cask hyperswitch
+cask imageoptim
+cask istat-menus
+cask iterm2
+cask kaleidoscope
+cask karabiner
+cask libreoffice
+cask little-snitch
+cask magicprefs
+cask mysqlworkbench
+cask opera
+cask optimal-layout
+cask paparazzi
+cask qlcolorcode
+cask qlimagesize
+cask qlmarkdown
+cask qlstephen
+cask quicklook-csv
+cask quicklook-json
+cask scriptql
+cask sequel-pro
+cask skype
+cask sophos-anti-virus-home-edition
+cask suspicious-package
+cask transmit
+cask vagrant-manager
+cask vagrant
+cask virtualbox
+cask xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
-cask install charles
-cask install firefox-ja
-cask install google-chrome-canary
-cask install macvim-kaoriya
+cask firefox-ja
+cask google-chrome-canary
+cask macvim-kaoriya
 
 ## jingweno/ccat
 tap jingweno/ccat
-install ccat
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install --disable-etcdir zsh
-install android-sdk
-install bdw-gc
-install ctags
-install curl
-install direnv
-install gdbm
-install git
-install git-flow
-install jq
-install libevent
-install libpng
-install mackup
-install mobile-shell
-install openssl
-install pcre
-install pkg-config
-install pngquant
-install python
-install readline
-install reattach-to-user-namespace
-install sqlite
-install the_silver_searcher
-install thefuck
-install tig
-install tmux
-install tree
-install w3m
-install wget
-install xz
+brew ccat
+brew --disable-etcdir zsh
+brew android-sdk
+brew bdw-gc
+brew ctags
+brew curl
+brew direnv
+brew gdbm
+brew git
+brew git-flow
+brew jq
+brew libevent
+brew libpng
+brew mackup
+brew mobile-shell
+brew openssl
+brew pcre
+brew pkg-config
+brew pngquant
+brew python
+brew readline
+brew reattach-to-user-namespace
+brew sqlite
+brew the_silver_searcher
+brew thefuck
+brew tig
+brew tmux
+brew tree
+brew w3m
+brew wget
+brew xz
 
 # App Store applications
 appstore 1Password
