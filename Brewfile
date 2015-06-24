@@ -64,15 +64,16 @@ cask macvim-kaoriya
 
 ## jingweno/ccat
 tap jingweno/ccat
+brew ccat
 
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew ccat
 brew --disable-etcdir zsh
 brew android-sdk
+brew ansible
 brew bdw-gc
 brew ctags
 brew curl
