@@ -32,7 +32,6 @@ cask istat-menus
 cask iterm2
 cask kaleidoscope
 cask karabiner
-cask libreoffice
 cask little-snitch
 cask magicprefs
 cask mysqlworkbench
@@ -71,7 +70,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew --disable-etcdir zsh
+brew zsh
 brew android-sdk
 brew ansible
 brew bdw-gc
