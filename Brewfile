@@ -46,6 +46,7 @@ cask quicklook-csv
 cask quicklook-json
 cask scriptql
 cask sequel-pro
+cask sketch
 cask skype
 cask sophos-anti-virus-home-edition
 cask suspicious-package
