@@ -15,7 +15,6 @@ cask charles
 cask chefdk
 cask clipmenu
 cask cocoarestclient
-cask coteditor
 cask dropbox
 cask evernote
 cask flash
@@ -110,6 +109,7 @@ appstore Archiver
 appstore Caffeine
 appstore CodeBox
 appstore CodeRunner
+appstore CotEditor
 appstore Dash
 appstore Desktop Calendar Plus
 appstore HyperDock
