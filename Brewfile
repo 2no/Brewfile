@@ -45,6 +45,7 @@ cask quicklook-csv
 cask quicklook-json
 cask scriptql
 cask sequel-pro
+cask shortcat
 cask sketch
 cask skype
 cask sophos-anti-virus-home-edition
@@ -108,7 +109,7 @@ appstore Airmail 2
 appstore Archiver
 appstore Caffeine
 appstore CodeBox
-appstore CodeRunner
+appstore CodeRunner 2
 appstore CotEditor
 appstore Dash
 appstore Desktop Calendar Plus
