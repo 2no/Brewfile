@@ -54,7 +54,6 @@ cask transmit
 cask vagrant-manager
 cask vagrant
 cask virtualbox
-cask xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
