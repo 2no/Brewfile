@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask adobe-creative-cloud
@@ -55,17 +54,14 @@ cask vagrant-manager
 cask vagrant
 cask virtualbox
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 cask google-chrome-canary
 cask macvim-kaoriya
 
-## jingweno/ccat
 tap jingweno/ccat
 brew ccat
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
