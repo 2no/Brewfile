@@ -63,6 +63,9 @@ brew ccat
 tap rcmdnk/file
 brew brew-file
 
+tap brona/iproute2mac
+brew iproute2mac
+
 # Other Homebrew packages
 brew zsh
 brew android-sdk
