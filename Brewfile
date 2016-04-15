@@ -11,6 +11,7 @@ cask bartender
 cask bettertouchtool
 cask betterzipql
 cask charles
+cask chatwork
 cask chefdk
 cask clipmenu
 cask cocoarestclient
