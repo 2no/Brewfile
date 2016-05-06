@@ -52,6 +52,7 @@ cask transmit
 cask vagrant-manager
 cask vagrant
 cask virtualbox
+cask vivaldi
 
 tap caskroom/versions
 cask firefox-ja
