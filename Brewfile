@@ -18,6 +18,7 @@ cask cocoarestclient
 cask dropbox
 cask evernote
 cask flash
+cask ghostlab
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
