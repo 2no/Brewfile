@@ -115,9 +115,10 @@ appstore 524688159 Desktop Calendar Plus
 appstore 449830122 HyperDock
 appstore 513610341 Integrity
 appstore 404747434 MenuPop
+appstore 428834068 Night Owl
+appstore 412627292 Optimal Layout
 appstore 880001334 Reeder
 appstore 425955336 Skitch
 appstore 803453959 Slack
 appstore 512533449 Slicy
 appstore 497799835 Xcode
-appstore 428834068 YoruFukurou
