@@ -103,20 +103,21 @@ brew wget
 brew xz
 
 # App Store applications
-appstore 1Password
-appstore Airmail 2
-appstore Archiver
-appstore Caffeine
-appstore CodeBox
-appstore CodeRunner 2
-appstore CotEditor
-appstore Dash
-appstore Desktop Calendar Plus
-appstore HyperDock
-appstore Integrity
-appstore MenuPop
-appstore Reeder
-appstore Slack
-appstore Slicy
-appstore Xcode
-appstore YoruFukurou
+appstore 443987910 1Password
+appstore 918858936 Airmail 3
+appstore 619437121 Archiver
+appstore 411246225 Caffeine
+appstore 412536790 CodeBox
+appstore 955297617 CodeRunner
+appstore 1024640650 CotEditor
+appstore 449589707 Dash
+appstore 524688159 Desktop Calendar Plus
+appstore 449830122 HyperDock
+appstore 513610341 Integrity
+appstore 404747434 MenuPop
+appstore 880001334 Reeder
+appstore 425955336 Skitch
+appstore 803453959 Slack
+appstore 512533449 Slicy
+appstore 497799835 Xcode
+appstore 428834068 YoruFukurou
