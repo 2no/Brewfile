@@ -1,8 +1,13 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
+tap brona/iproute2mac
+brew iproute2mac
+
 tap caskroom/cask
-brew brew-cask
 cask adobe-creative-cloud
 cask alfred
 cask android-file-transfer
@@ -60,35 +65,32 @@ cask firefox-ja
 cask google-chrome-canary
 cask macvim-kaoriya
 
-tap jingweno/ccat
-brew ccat
-
-tap rcmdnk/file
-brew brew-file
-
-tap brona/iproute2mac
-brew iproute2mac
-
-# Other Homebrew packages
-brew zsh
+tap homebrew/core
 brew android-sdk
 brew ansible
 brew bdw-gc
+brew boost
+brew ccat
 brew ctags
 brew curl
 brew direnv
 brew gdbm
-brew git
 brew git-flow
+brew git
+brew highlight
 brew jq
 brew libevent
 brew libpng
+brew libyaml
+brew lua
 brew mackup
 brew mobile-shell
+brew oniguruma
 brew openssl
 brew pcre
 brew pkg-config
 brew pngquant
+brew protobuf
 brew python
 brew readline
 brew reattach-to-user-namespace
@@ -98,9 +100,16 @@ brew thefuck
 brew tig
 brew tmux
 brew tree
+brew unar
 brew w3m
 brew wget
 brew xz
+brew zsh
+
+tap jingweno/ccat
+
+tap rcmdnk/file
+brew brew-file
 
 # App Store applications
 appstore 443987910 1Password
