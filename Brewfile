@@ -74,13 +74,21 @@ brew ccat
 brew ctags
 brew curl
 brew direnv
+brew dirmngr
 brew gdbm
 brew git-flow
 brew git
+brew gpg-agent
 brew highlight
 brew jq
+brew libassuan
 brew libevent
+brew libgcrypt
+brew libgpg-error
+brew libksba
 brew libpng
+brew libusb-compat
+brew libusb
 brew libyaml
 brew lua
 brew mackup
@@ -88,9 +96,11 @@ brew mobile-shell
 brew oniguruma
 brew openssl
 brew pcre
+brew pinentry
 brew pkg-config
 brew pngquant
 brew protobuf
+brew pth
 brew python
 brew readline
 brew reattach-to-user-namespace
@@ -110,6 +120,9 @@ tap jingweno/ccat
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew gpg2
 
 # App Store applications
 appstore 443987910 1Password
