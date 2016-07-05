@@ -71,6 +71,7 @@ brew ansible
 brew bdw-gc
 brew boost
 brew ccat
+brew clipper
 brew ctags
 brew curl
 brew direnv
