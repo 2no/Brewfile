@@ -21,7 +21,6 @@ cask chefdk
 cask clipmenu
 cask cocoarestclient
 cask dropbox
-cask evernote
 cask flash
 cask ghostlab
 cask google-chrome
@@ -137,6 +136,7 @@ appstore 524688159 Desktop Calendar Plus
 appstore 449830122 HyperDock
 appstore 513610341 Integrity
 appstore 404747434 MenuPop
+appstore 784801555 Microsoft OneNote
 appstore 428834068 Night Owl
 appstore 412627292 Optimal Layout
 appstore 880001334 Reeder
