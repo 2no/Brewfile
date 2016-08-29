@@ -22,6 +22,7 @@ cask clipmenu
 cask cocoarestclient
 cask dropbox
 cask flash
+cask franz
 cask ghostlab
 cask google-chrome
 cask google-drive
