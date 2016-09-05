@@ -18,6 +18,7 @@ cask betterzipql
 cask charles
 cask chatwork
 cask chefdk
+cask choosy
 cask clipmenu
 cask cocoarestclient
 cask dropbox
