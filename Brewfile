@@ -98,6 +98,7 @@ brew mobile-shell
 brew oniguruma
 brew openssl
 brew pcre
+brew peco
 brew pinentry
 brew pkg-config
 brew pngquant
