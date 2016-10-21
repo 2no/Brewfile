@@ -22,7 +22,8 @@ cask choosy
 cask clipmenu
 cask cocoarestclient
 cask dropbox
-cask flash
+cask firefox
+cask flash-player
 cask franz
 cask ghostlab
 cask google-chrome
@@ -62,7 +63,6 @@ cask virtualbox
 cask vivaldi
 
 tap caskroom/versions
-cask firefox-ja
 cask google-chrome-canary
 cask macvim-kaoriya
 
