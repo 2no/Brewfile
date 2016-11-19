@@ -118,8 +118,6 @@ brew wget
 brew xz
 brew zsh
 
-tap jingweno/ccat
-
 tap rcmdnk/file
 brew brew-file
 
