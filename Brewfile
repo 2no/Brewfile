@@ -4,9 +4,6 @@
 tap argon/mas
 brew mas
 
-tap brona/iproute2mac
-brew iproute2mac
-
 tap caskroom/cask
 cask adobe-creative-cloud
 cask alfred
@@ -83,6 +80,7 @@ brew git-flow
 brew git
 brew gpg-agent
 brew highlight
+brew iproute2mac
 brew jq
 brew libassuan
 brew libevent
