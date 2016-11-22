@@ -77,7 +77,6 @@ brew direnv
 brew dirmngr
 brew gdbm
 brew git-flow
-brew git-lfs
 brew git
 brew gpg-agent
 brew highlight
