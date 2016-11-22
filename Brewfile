@@ -135,7 +135,6 @@ appstore 1024640650 CotEditor
 appstore 449589707 Dash
 appstore 524688159 Desktop Calendar Plus
 appstore 449830122 HyperDock
-appstore 513610341 Integrity
 appstore 404747434 MenuPop
 appstore 784801555 Microsoft OneNote
 appstore 428834068 Night Owl
