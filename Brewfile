@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 cask adobe-creative-cloud
+cask alcatraz
 cask alfred
 cask android-file-transfer
 cask appcleaner
