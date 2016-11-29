@@ -111,6 +111,7 @@ brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew sqlite
+brew swiftlint
 brew the_silver_searcher
 brew thefuck
 brew tig
