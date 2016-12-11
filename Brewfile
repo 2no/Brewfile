@@ -29,6 +29,7 @@ cask google-chrome
 cask google-drive
 cask google-japanese-ime
 cask gyazo
+cask hammerspoon
 cask haroopad
 cask hosts
 cask hyperswitch
