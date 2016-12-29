@@ -38,7 +38,6 @@ cask istat-menus
 cask iterm2
 cask kaleidoscope
 cask karabiner
-cask keychain
 cask little-snitch
 cask magicprefs
 cask mysqlworkbench
