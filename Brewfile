@@ -64,7 +64,6 @@ cask vivaldi
 
 tap caskroom/versions
 cask google-chrome-canary
-cask macvim-kaoriya
 
 tap homebrew/core
 brew android-sdk
