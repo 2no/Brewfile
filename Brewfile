@@ -20,6 +20,7 @@ cask chefdk
 cask choosy
 cask clipmenu
 cask cocoarestclient
+cask dash
 cask dropbox
 cask firefox
 cask flash-player
