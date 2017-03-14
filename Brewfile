@@ -107,6 +107,7 @@ brew pkg-config
 brew pngquant
 brew protobuf
 brew pth
+brew pup
 brew python
 brew readline
 brew reattach-to-user-namespace
