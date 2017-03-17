@@ -18,7 +18,7 @@ cask charles
 cask chatwork
 cask chefdk
 cask choosy
-cask clipmenu
+cask clipy
 cask cocoarestclient
 cask dash
 cask dropbox
