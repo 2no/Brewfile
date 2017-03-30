@@ -21,6 +21,7 @@ cask choosy
 cask clipy
 cask cocoarestclient
 cask dash
+cask docker
 cask dropbox
 cask firefox
 cask flash-player
