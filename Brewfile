@@ -104,6 +104,7 @@ brew openssl@1.1
 brew pcre
 brew peco
 brew pinentry
+brew pinentry-mac
 brew pkg-config
 brew pngquant
 brew protobuf
