@@ -82,6 +82,7 @@ brew dirmngr
 brew gdbm
 brew git
 brew git-flow
+brew gpg2
 brew gpg-agent
 brew highlight
 brew iproute2mac
