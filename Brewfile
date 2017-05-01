@@ -83,6 +83,7 @@ brew gdbm
 brew git
 brew git-flow
 brew ghq
+brew gpg2
 brew gpg-agent
 brew highlight
 brew iproute2mac
