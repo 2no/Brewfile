@@ -64,6 +64,9 @@ cask vagrant
 cask virtualbox
 cask vivaldi
 
+tap caskroom/versions
+cask google-chrome-canary
+
 tap homebrew/core
 brew android-sdk
 brew ansible
