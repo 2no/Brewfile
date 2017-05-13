@@ -13,7 +13,6 @@ cask appcleaner
 cask bartender
 cask bettertouchtool
 cask betterzipql
-cask blisk
 cask charles
 cask chatwork
 cask chefdk
