@@ -15,7 +15,6 @@ cask bettertouchtool
 cask betterzipql
 cask caffeine
 cask charles
-cask chatwork
 cask chefdk
 cask choosy
 cask clipy
@@ -28,7 +27,6 @@ cask flash-player
 cask franz
 cask ghostlab
 cask google-chrome
-cask google-drive
 cask google-japanese-ime
 cask gyazo
 cask hammerspoon
@@ -115,7 +113,6 @@ brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew sqlite
-brew swiftlint
 brew the_silver_searcher
 brew thefuck
 brew tig
