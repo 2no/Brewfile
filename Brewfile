@@ -60,6 +60,7 @@ cask transmit
 cask vagrant-manager
 cask vagrant
 cask virtualbox
+cask zeplin
 
 tap caskroom/versions
 cask google-chrome-canary
