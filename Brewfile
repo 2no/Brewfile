@@ -17,7 +17,6 @@ cask caffeine
 cask charles
 cask chefdk
 cask choosy
-cask clipy
 cask cocoarestclient
 cask dash
 cask docker
