@@ -17,7 +17,6 @@ cask caffeine
 cask charles
 cask chefdk
 cask choosy
-cask clipy
 cask cocoarestclient
 cask dash
 cask docker
@@ -119,6 +118,7 @@ brew tig
 brew tmux
 brew tree
 brew unar
+brew vim
 brew w3m
 brew wget
 brew xz
