@@ -41,7 +41,6 @@ cask karabiner
 cask little-snitch
 cask magicprefs
 cask mysqlworkbench
-cask opera
 cask optimal-layout
 cask paparazzi
 cask qlcolorcode
