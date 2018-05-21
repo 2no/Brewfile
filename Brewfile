@@ -122,6 +122,7 @@ brew vim
 brew w3m
 brew wget
 brew xz
+brew yq
 brew zsh
 
 tap rcmdnk/file
