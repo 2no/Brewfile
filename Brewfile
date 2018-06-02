@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask 1password
 cask adobe-creative-cloud
 cask alcatraz
 cask alfred
@@ -122,6 +123,7 @@ brew vim
 brew w3m
 brew wget
 brew xz
+brew yq
 brew zsh
 
 tap rcmdnk/file
