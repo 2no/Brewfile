@@ -15,7 +15,7 @@ cask bettertouchtool
 cask betterzipql
 cask caffeine
 cask charles
-cask chefdk
+cask chef/chef/chefdk
 cask choosy
 cask cocoarestclient
 cask dash
