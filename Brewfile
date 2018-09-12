@@ -119,7 +119,7 @@ brew tig
 brew tmux
 brew tree
 brew unar
-brew vim --with-python@2
+brew vim
 brew w3m
 brew wget
 brew xz
