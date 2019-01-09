@@ -23,7 +23,6 @@ cask docker
 cask dropbox
 cask firefox
 cask flash-player
-cask franz
 cask ghostlab
 cask google-chrome
 cask google-japanese-ime
@@ -52,7 +51,7 @@ cask scriptql
 cask sequel-pro
 cask shortcat
 cask sketch
-cask skype
+cask station
 cask suspicious-package
 cask transmit
 cask vagrant-manager
