@@ -29,7 +29,6 @@ cask google-japanese-ime
 cask gyazo
 cask hammerspoon
 cask haroopad
-cask hosts
 cask hyperswitch
 cask imageoptim
 cask istat-menus
@@ -42,7 +41,6 @@ cask mysqlworkbench
 cask optimal-layout
 cask paparazzi
 cask qlcolorcode
-cask qlimagesize
 cask qlmarkdown
 cask qlstephen
 cask quicklook-csv
