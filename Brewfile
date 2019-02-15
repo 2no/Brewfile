@@ -12,7 +12,7 @@ cask android-file-transfer
 cask appcleaner
 cask bartender
 cask bettertouchtool
-cask betterzipql
+cask betterzip
 cask caffeine
 cask charles
 cask chef/chef/chefdk
