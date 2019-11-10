@@ -44,6 +44,7 @@ brew protobuf
 brew pth
 brew pup
 brew python
+brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
