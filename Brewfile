@@ -1,9 +1,79 @@
 
 # tap repositories and their packages
 
-tap argon/mas
+tap homebrew/core
+brew ansible
+brew autoconf
+brew bdw-gc
+brew boost
+brew ccat
+brew clipper
+brew ctags
+brew curl
+brew direnv
+brew gdbm
+brew ghq
+brew git
+brew git-flow
+brew gnupg
+brew highlight
+brew iproute2mac
+brew jq
+brew libassuan
+brew libevent
+brew libgcrypt
+brew libgpg-error
+brew libksba
+brew libpng
+brew libusb
+brew libusb-compat
+brew libyaml
+brew lua
+brew mackup
 brew mas
+brew oniguruma
+brew openssl
+brew openssl@1.1
+brew pcre
+brew peco
+brew pinentry
+brew pinentry-mac
+brew pkg-config
+brew pngquant
+brew protobuf
+brew pth
+brew pup
+brew python
+brew readline
+brew reattach-to-user-namespace
+brew ruby-build
+brew sqlite
+brew the_silver_searcher
+brew thefuck
+brew tig
+brew tmux
+brew tree
+brew unar
+brew vim
+brew w3m
+brew wget
+brew xz
+brew yq
+brew zsh
 
+tap homebrew/cask-versions
+cask google-chrome-canary
+
+tap argon/mas
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew gpg2
+brew mobile-shell
+
+# Other Cask applications
 cask 1password
 cask adobe-creative-cloud
 cask alfred
@@ -45,77 +115,10 @@ cask sketch
 cask station
 cask suspicious-package
 cask transmit
-cask vagrant-manager
 cask vagrant
+cask vagrant-manager
 cask virtualbox
 cask zeplin
-
-tap homebrew/cask-versions
-cask google-chrome-canary
-
-tap homebrew/core
-brew ansible
-brew autoconf
-brew bdw-gc
-brew boost
-brew ccat
-brew clipper
-brew ctags
-brew curl
-brew direnv
-brew gdbm
-brew git
-brew git-flow
-brew ghq
-brew gnupg
-brew gpg2
-brew highlight
-brew iproute2mac
-brew jq
-brew libassuan
-brew libevent
-brew libgcrypt
-brew libgpg-error
-brew libksba
-brew libpng
-brew libusb
-brew libusb-compat
-brew libyaml
-brew lua
-brew mackup
-brew mobile-shell
-brew oniguruma
-brew openssl
-brew openssl@1.1
-brew pcre
-brew peco
-brew pinentry
-brew pinentry-mac
-brew pkg-config
-brew pngquant
-brew protobuf
-brew pth
-brew pup
-brew python
-brew readline
-brew reattach-to-user-namespace
-brew ruby-build
-brew sqlite
-brew the_silver_searcher
-brew thefuck
-brew tig
-brew tmux
-brew tree
-brew unar
-brew vim
-brew w3m
-brew wget
-brew xz
-brew yq
-brew zsh
-
-tap rcmdnk/file
-brew brew-file
 
 # App Store applications
 appstore 412536790 CodeBox (1.6)
