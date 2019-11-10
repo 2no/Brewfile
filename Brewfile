@@ -31,6 +31,7 @@ brew libyaml
 brew lua
 brew mackup
 brew mas
+brew mysql
 brew oniguruma
 brew openssl
 brew openssl@1.1
@@ -102,7 +103,6 @@ cask kaleidoscope
 cask little-snitch
 cask magicprefs
 cask mysqlworkbench
-cask optimal-layout
 cask paparazzi
 cask qlmarkdown
 cask quicklook-csv
