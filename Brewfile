@@ -103,9 +103,7 @@ cask magicprefs
 cask mysqlworkbench
 cask optimal-layout
 cask paparazzi
-cask qlcolorcode
 cask qlmarkdown
-cask qlstephen
 cask quicklook-csv
 cask quicklook-json
 cask scriptql
