@@ -32,8 +32,9 @@ brew lua
 brew mackup
 brew mas
 brew mysql
+brew node-build
+brew nodenv
 brew oniguruma
-brew openssl
 brew openssl@1.1
 brew pcre
 brew peco
@@ -74,6 +75,7 @@ brew brew-file
 # Other Homebrew packages
 brew gpg2
 brew mobile-shell
+brew openssl
 
 # Other Cask applications
 cask 1password
@@ -90,7 +92,6 @@ cask docker
 cask dropbox
 cask firefox
 cask flash-player
-cask ghostlab
 cask google-chrome
 cask google-japanese-ime
 cask hammerspoon
