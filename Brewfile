@@ -90,6 +90,7 @@ cask charles
 cask choosy
 cask docker
 cask dropbox
+cask figma
 cask firefox
 cask flash-player
 cask google-chrome
