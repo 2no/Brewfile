@@ -92,7 +92,6 @@ cask docker
 cask dropbox
 cask figma
 cask firefox
-cask flash-player
 cask google-chrome
 cask google-japanese-ime
 cask hammerspoon
