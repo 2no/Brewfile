@@ -102,7 +102,6 @@ cask istat-menus
 cask iterm2
 cask kaleidoscope
 cask little-snitch
-cask magicprefs
 cask mysqlworkbench
 cask paparazzi
 cask qlmarkdown
