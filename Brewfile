@@ -111,7 +111,6 @@ cask scriptql
 cask sequel-pro
 cask shortcat
 cask sketch
-cask station
 cask suspicious-package
 cask transmit
 cask vagrant
@@ -125,7 +124,6 @@ appstore 955297617 CodeRunner (2.2.2)
 appstore 1024640650 CotEditor (3.1.1)
 appstore 524688159 Desktop Calendar Plus (1.3.6)
 appstore 449830122 HyperDock (1.5)
-appstore 404747434 MenuPop (1.6.1)
 appstore 784801555 Microsoft OneNote (15.28)
 appstore 412627292 Optimal Layout (2.3.2)
 appstore 880001334 Reeder (3.0.1)
