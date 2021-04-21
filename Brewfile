@@ -79,7 +79,6 @@ brew openssl
 
 # Other Cask applications
 cask 1password
-cask adobe-creative-cloud
 cask alfred
 cask appcleaner
 cask bartender
