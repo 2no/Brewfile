@@ -107,25 +107,23 @@ cask qlmarkdown
 cask quicklook-csv
 cask quicklook-json
 cask scriptql
-cask sequel-pro
+cask sequel-ace
 cask shortcat
-cask sketch
 cask suspicious-package
-cask transmit
 cask vagrant
 cask vagrant-manager
 cask virtualbox
+cask xcodes
 cask zeplin
 
 # App Store applications
-appstore 412536790 CodeBox (1.6)
-appstore 955297617 CodeRunner (2.2.2)
-appstore 1024640650 CotEditor (3.1.1)
-appstore 524688159 Desktop Calendar Plus (1.3.6)
-appstore 449830122 HyperDock (1.5)
-appstore 784801555 Microsoft OneNote (15.28)
-appstore 412627292 Optimal Layout (2.3.2)
-appstore 880001334 Reeder (3.0.1)
-appstore 425955336 Skitch (2.7.8)
-appstore 803453959 Slack (2.3.2)
-appstore 497799835 Xcode (8.2.1)
+appstore 412536790   CodeBox                (1.6)
+appstore 955297617   CodeRunner             (2.2.2)
+appstore 1024640650  CotEditor              (3.1.1)
+appstore 449830122   HyperDock              (1.5)
+appstore 784801555   Microsoft OneNote      (15.28)
+appstore 412627292   Optimal Layout         (2.3.2)
+appstore 1529448980  Reeder                 (5.0.10)
+appstore 1504940162  RocketSim              (6.0.1)
+appstore 425955336   Skitch                 (2.9)
+
