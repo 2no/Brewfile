@@ -89,6 +89,7 @@ cask caffeine
 cask charles
 cask choosy
 cask docker
+cask dockview
 cask dropbox
 cask figma
 cask firefox
