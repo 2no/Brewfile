@@ -80,6 +80,7 @@ brew openssl
 # Other Cask applications
 cask 1password
 cask alfred
+cask alt-tab
 cask appcleaner
 cask bartender
 cask bettertouchtool
@@ -95,7 +96,6 @@ cask google-chrome
 cask google-japanese-ime
 cask hammerspoon
 cask haroopad
-cask hyperswitch
 cask imageoptim
 cask istat-menus
 cask iterm2
