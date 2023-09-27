@@ -96,7 +96,6 @@ cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask hammerspoon
-cask haroopad
 cask imageoptim
 cask istat-menus
 cask iterm2
@@ -122,6 +121,5 @@ appstore 412536790   CodeBox                (1.6)
 appstore 955297617   CodeRunner             (2.2.2)
 appstore 1024640650  CotEditor              (3.1.1)
 appstore 784801555   Microsoft OneNote      (15.28)
-appstore 412627292   Optimal Layout         (2.3.2)
 appstore 1529448980  Reeder                 (5.0.10)
 appstore 1504940162  RocketSim              (6.0.1)
