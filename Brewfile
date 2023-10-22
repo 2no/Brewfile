@@ -111,7 +111,6 @@ cask sequel-ace
 cask shortcat
 cask suspicious-package
 cask vagrant
-cask vagrant-manager
 cask virtualbox
 cask xcodes
 cask zeplin
