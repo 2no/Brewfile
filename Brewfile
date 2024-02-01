@@ -31,7 +31,6 @@ brew libyaml
 brew lua
 brew mackup
 brew mas
-brew mysql
 brew node-build
 brew nodenv
 brew oniguruma
