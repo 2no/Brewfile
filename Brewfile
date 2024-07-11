@@ -63,7 +63,6 @@ brew xz
 brew yq
 brew zsh
 
-tap homebrew/cask-versions
 cask google-chrome-canary
 
 tap argon/mas
