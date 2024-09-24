@@ -255,13 +255,17 @@ cask charles
 cask choosy
 cask cleanshot
 cask docker
+cask dockview
 cask dropbox
 cask figma
 cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask hammerspoon
+<<<<<<< HEAD
 cask haroopad
+=======
+>>>>>>> 31218a219b89a58b8aebd9280ad4371461eedf02
 cask imageoptim
 cask intellij-idea
 cask istat-menus
@@ -282,9 +286,7 @@ cask sequel-ace
 cask shortcat
 cask sketch
 cask suspicious-package
-cask transmit
 cask vagrant
-cask vagrant-manager
 cask virtualbox
 cask visual-studio-code
 cask vivaldi
