@@ -73,6 +73,7 @@ cask jetbrains-toolbox
 cask kaleidoscope
 cask keyboardcleantool
 cask little-snitch
+cask minisim
 cask orbstack
 cask proxyman
 cask raycast
