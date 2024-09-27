@@ -7,6 +7,7 @@ brew bash
 brew brotli
 brew c-ares
 brew ca-certificates
+brew cocoapods
 brew direnv
 brew firebase-cli
 brew gettext
@@ -29,6 +30,7 @@ brew mpdecimal
 brew ncurses
 brew node
 brew oniguruma
+brew openssl@1.1
 brew openssl@3
 brew pcre
 brew pcre2
@@ -37,6 +39,7 @@ brew python@3.12
 brew readline
 brew ruby
 brew sqlite
+brew the_silver_searcher
 brew thefuck
 brew tmux
 brew usage
@@ -109,5 +112,5 @@ appstore 441258766 Magnet (2.14.0)
 appstore 784801555 Microsoft OneNote (16.89.1)
 appstore 409203825 Numbers (14.1)
 appstore 409201541 Pages (14.1)
-appstore 1529448980 Reeder (5.4.4)
+appstore 1529448980 Reeder (5.4.6)
 appstore 1504940162 RocketSim (12.11.8)
