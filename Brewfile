@@ -13,6 +13,7 @@ brew firebase-cli
 brew gettext
 brew ghq
 brew git
+brew gmp
 brew icu4c
 brew iproute2mac
 brew jq
@@ -24,13 +25,14 @@ brew libssh2
 brew libuv
 brew libyaml
 brew lua
+brew lz4
 brew mise
 brew mosh
 brew mpdecimal
+brew mysql
 brew ncurses
 brew node
 brew oniguruma
-brew openssl@1.1
 brew openssl@3
 brew pcre
 brew pcre2
@@ -49,7 +51,9 @@ brew vim
 brew volta
 brew xz
 brew yq
+brew zlib
 brew zsh
+brew zstd
 
 tap homebrew/cask
 cask 1password
